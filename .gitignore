@@ -12,11 +12,6 @@ build/
 .ipynb_checkpoints/
 .DS_Store
 
-# Data
-data/
-!data/.gitkeep
-outputs/
-!outputs/.gitkeep
 
 # VSCode
 .vscode/
