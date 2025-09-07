@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+.envrc
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+.DS_Store
+
+# Data
+data/
+!data/.gitkeep
+outputs/
+!outputs/.gitkeep
+
+# VSCode
+.vscode/
